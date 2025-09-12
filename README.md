@@ -80,3 +80,58 @@ far, or b) trying to make up some work with a token.
   other part, like:
 
   ![v basic excalidraw drawing for week two](assets/excalidraw-week-two.png)
+
+## Commit Week Three Deliverables (9/8)
+
+- **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
+  (meaning something that one of your peers has not already shared) to this
+  week's Discord thread pertaining to one of Nystrom's end-of-chapter challenges
+
+- **Team Deliverable:** *by Thursday @ 12:15pm*, submit a project charter for
+  next week's team-based project, which should include:
+  
+  - Team roles (1 captain, 2 presenters, and 3-4 technical team members)
+
+  - A list of the 5 toys your team will be assembling, including the language
+    of implementation and the general function of the toy, keeping in mind that
+    each toy must ultimately include:
+    
+    - At least 3 functions/methods/modules outside of a `main`-esque control
+      structure
+
+    - The utilization of at least 3 different data types
+
+    - The capability to accept user input for the sake of facilitating *play*
+
+  - At least two intermediate deadlines per team member
+
+  - A schedule of performance review sessions for 9/15, 9/16, & 9/18
+
+- **Individual Deliverable:** *by Friday @ 7:59pm*, successfully demo a Lox
+  version of TheCoolerTeam's banking toy program using
+  [this online Lox sandbox](https://www.yanglinzhao.com/posts/crafting-interpreters/)
+  and save a copy of your code to your individual repo; hardcode a script that
+  hits every option from the original program in whatever order/amounts you
+  like, and be sure to display intermediate outputs from every hardcoded user
+  selection
+
+- **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
+  repository, add a Markdown (`.md`) file with a 200 word (minimum) response to
+  the following prompt:
+  
+  > Before our performance review sessions next week, you now have a chance to
+  > review the instructor regarding the course. Please discuss your experience
+  > in this course, and address the following questions: a) how do you feel
+  > about the course structure? b) do the commit week deliverables feel like
+  > they have educational value? c) does the pace of the course feel about
+  > right? d) is there anything the instructor could do to make your time in the
+  > course feel better?
+
+- **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
+  repository, add an image file exported from
+  [excalidraw](https://excalidraw.com/) that illustrates a Venn diagram
+  comparing and contrasting Python, Java, and Lox in the below style; every
+  segment of the diagram must include at least one statement, and the entire
+  diagram must include a minimum of twelve comparative statements:
+
+  ![hunger-inducing excalidraw drawing for week two](assets/excalidraw-week-three.png)
