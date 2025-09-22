@@ -135,3 +135,43 @@ far, or b) trying to make up some work with a token.
   diagram must include a minimum of twelve comparative statements:
 
   ![hunger-inducing excalidraw drawing for week two](assets/excalidraw-week-three.png)
+
+## Build Week One Deliverables (9/15)
+
+- **Language Toy Box:** for up to five possible points, work with your team to
+  successfully demonstrate five playable toy programs written in five different
+  languages; you'll receive one point for every toy that meets *all* of the
+  following criteria:
+
+  - Satisfies all inclusion requirements:
+
+    - At least 3 functions/methods/modules outside of a `main`-esque control
+    structure
+
+    - The utilization of at least 3 different data types
+
+    - The capability to accept user input for the sake of facilitating *play*
+
+  - Does not break when being presented/demoed
+
+  - Is presented alongside extemporaneous discussion stemming from the
+    highlights of the `project-reflection.md` file, which should contain 150
+    words (per toy) that addresses the following:
+
+    - How did the language lend itself to the implementation of that toy?
+
+    - What obstacles did you encounter?
+
+    - If you could do this project again would you build this toy in a different
+      language? Why or why not?
+
+- **Performance Review:** for up to five possible points, engage with the
+  instructor in a one-on-one conversation during your scheduled session about
+  your performance thus far in the semester:
+
+    - Three points will be derived from discussion reviewing three of your prior
+      commit week deliverables, the selection of which is determined by the
+      instructor
+
+    - Two points will be derived from feedback provided by your peers regarding
+      your contributions to team-based deliverables
