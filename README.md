@@ -334,4 +334,41 @@ far, or b) trying to make up some work with a token.
   Lox `Parser` works; this should connect to the maps for scanning and grammars
   (do not clear your canvas) and should also use at least ten shapes/entities
   to illustrate the `Parser`
-  
+
+## Build Week Two Deliverables (10/13)
+
+- **Tree-Walk Linter:** for up to five possible points, work with your team to
+  successfully demonstrate a linter that can take a source code input and report
+  on style breaches based on five distinct linting rules; one point each will be
+  awarded for meeting the following criteria:
+
+  - Demonstrates clear use of the Python `ast` module in achieving the objective
+
+  - Successfully reads in a source code file as an input and reports *where* the
+    problem(s) were and *what* rule(s) were breached
+
+  - Does not break when being presented/demoed
+
+  - Clearly shows the ability to catch all five selected linting rule cases
+
+  - Is presented alongside extemporaneous discussion stemming from the
+    highlights of the `project-reflection.md` file that addresses the following
+    questions:
+
+    - How did the `ast` module assist in this endeavor? (~250 words)
+
+    - Would this have been possible without the use of an AST? If so, would the
+      alternative approach be more/less effective? If not, *why*? (~250 words)
+
+    - What obstacles did your team encounter while implementing this project,
+      and how did you overcome them? (~250 words)
+
+- **Performance Review:** for up to five possible points, engage with the
+  instructor in a one-on-one conversation during your scheduled session about
+  your performance thus far in the semester:
+
+    - Three points will be derived from responding to high-level questions about
+      the topics covered in commit weeks four, five, and six
+
+    - Two points will be derived from feedback provided by your peers regarding
+      your contributions to team-based deliverables
