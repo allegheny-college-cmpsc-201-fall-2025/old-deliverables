@@ -372,3 +372,51 @@ far, or b) trying to make up some work with a token.
 
     - Two points will be derived from feedback provided by your peers regarding
       your contributions to team-based deliverables
+
+## Commit Week Seven Deliverables (10/20)
+
+- **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
+  (meaning something that one of your peers has not already shared) to this
+  week's Discord thread about looking back over lessons learned this semester
+
+- **Team Deliverable:** *by Friday @ 7:59pm*, have the instructor successfully
+  demo your Lox interpreter; to accomodate this, the interpreter must have the
+  following:
+
+  - All code through chapter 7 represented in the interpreter
+
+  - At least 10 comments in the `Interpreter.java` file describing what is
+    accomplished and how
+
+  - A `README.md` file that includes instructions for compiling/running the
+    interpreter, as well as sample input/output
+
+- **Individual Deliverable:** *by Saturday @ 11:59pm*, add a file
+  `learning-objective-three.md` to your `learning-objectives` directory that
+  contains a 500 word statement **written entirely in your own words** detailing
+  how you've grappled with and demonstrated some level of competency with
+  the third learning objective for this course:
+
+  > Interpret and use an existing programming language grammar.
+
+- **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
+  repository, add a Markdown (`.md`) file (no other file types will be counted)
+  with a 200 word (minimum) response to the following prompt:
+  
+  > Look back on what we've covered so far. Identify one outstanding question
+  > you have related to any topics covered thus far...and look into possible
+  > answers! Be sure to cite at least two sources that address this question.
+
+- **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
+  repository, add a `.png` image file (no other file types will be counted)
+  exported from [excalidraw](https://excalidraw.com/) that "cleans up" and
+  condenses the maps covering content from chapters four, five, and six while
+  accomplishing the following:
+  
+  - Must include five entities from Nystrom's map at the beginning of chapter
+    two
+
+  - Must contain 15-20 entities total
+
+  - *Every* entity must explicitly articulate *how* it is related to at least
+    one other entity (e.g., using text alongside arrows)
