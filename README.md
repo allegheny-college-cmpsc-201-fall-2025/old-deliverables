@@ -420,3 +420,47 @@ far, or b) trying to make up some work with a token.
 
   - *Every* entity must explicitly articulate *how* it is related to at least
     one other entity (e.g., using text alongside arrows)
+
+## Commit Week Eight Deliverables (10/27)
+
+- **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
+  (meaning something that one of your peers has not already shared) to this
+  week's Discord thread recognizing other students' mapmaking accomplishments
+
+- **Team Deliverable:** *by Friday @ 7:59pm*, have the instructor successfully
+  demo your Lox interpreter; to accomodate this, the interpreter must have the
+  following:
+
+  - All code through chapter eight represented in the interpreter
+
+  - At least five comments in the `Environment.java` file describing what is
+    accomplished and how
+
+  - A `README.md` file that includes instructions for compiling/running the
+    interpreter, as well as sample input/output (be sure to update this with
+    any changes related to chapter eight)
+
+- **Individual Deliverable:** *by Thursday @ 12:14pm*, work with a partner or
+  two to deliver a 5-10 minute lecture covering your assigned section of
+  chapters seven or eight--note that slides are not permitted, though you're
+  welcome to leverage the whiteboard
+
+- **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
+  repository, add a Markdown (`.md`) file (no other file types will be counted)
+  with a 200 word (minimum) response to the following prompt:
+  
+  > Address the third challenge at the end of chapter eight. Provide the output
+  > produced by your interpreter, and answer all of Nystrom's questions related
+  > to it.
+
+- **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
+  repository, add a `.png` image file (no other file types will be counted)
+  exported from [excalidraw](https://excalidraw.com/) that adds content from
+  chapters seven and eight to your existing map from last week while meeting
+  the following criteria:
+  
+  - Must contain ~10 new entities addressing the evaluation of expressions and
+    statements
+
+  - *Every* entity must explicitly articulate *how* it is related to at least
+    one other entity (e.g., using text alongside arrows)
