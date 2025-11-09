@@ -464,3 +464,60 @@ far, or b) trying to make up some work with a token.
 
   - *Every* entity must explicitly articulate *how* it is related to at least
     one other entity (e.g., using text alongside arrows)
+
+## Commit Week Nine Deliverables (11/3)
+
+- **Discord Discussion:** *by Wednesday @ 11:59pm*, post a novel insight
+  (meaning something that one of your peers has not already shared) to this
+  week's Discord thread regarding code snippets from chapter nine
+
+- **Team Deliverable:** *by Thursday @ 12:14pm*, submit a project charter for
+  next week's build project which includes:
+
+  - Role assignments: one captain (responsible for the `project-charter.md`
+    file) and two presenters (responsible for the `project-reflection.md`)
+
+  - At least two intermediate deadlines per team member; each deadline should
+    note the specific individuals responsible for the deadline as well as the
+    date the task should be achieved by
+
+  - A performance review schedule noting who is being reviewed on which days
+    next week, based on this cadence:
+
+    - 3/4 team members on Monday (3 for Cooler, 4 for Fornite)
+
+    - 2 team members on Tuesday
+
+    - 1 team member on Thursday
+
+  - The selection of four interpreter add-ons: one related to enhancing current
+    functionality, one related to more robust error handling, one related to an
+    entirely new lox feature, and one "wild card" selection
+
+  - A plan for adding functionality from chapters nine and ten, and updating the
+    interpreter `README.md` with updated compile/run instructions and expected
+    inputs/outputs
+
+- **Individual Deliverable:** *by Saturday @ 11:59pm*, complete a brief write-up
+  (no more than 500 words) that gives a high-level summary of how the lox
+  interpreter is implemented; this should be in `.md` and share a single file
+  with a rendered image of your finalized map to be used in next week's
+  performance review session
+
+- **Reflection Entry:** *by Saturday @ 11:59pm*, within your individual
+  repository, add a Markdown (`.md`) file (no other file types will be counted)
+  with a 200 word (minimum) response to the following prompt:
+  
+  > If you could make any one change to the course to make it more instructive
+  > for you, what would it be? Why?
+
+- **Mapmaking Task:** *by Saturday @ 11:59pm*, within your individual
+  repository, add a `.png` image file (no other file types will be counted)
+  exported from [excalidraw](https://excalidraw.com/) that finalizes the
+  semester-long mapmaking project by doing the following:
+
+  - Adding at least one entity related to content from chapter 9
+
+  - Ensuring that *all* entities are connected (no separated components) and
+    that the relationships between them are explicitly defined
+    
