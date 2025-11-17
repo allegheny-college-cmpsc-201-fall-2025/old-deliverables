@@ -520,4 +520,33 @@ far, or b) trying to make up some work with a token.
 
   - Ensuring that *all* entities are connected (no separated components) and
     that the relationships between them are explicitly defined
-    
+
+## Build Week Three Deliverables (11/10)
+
+- **Lox Interpreter 2.0:** for up to five possible points, work with your team
+  to successfully demonstrate a lox interpreter that implements conditional
+  logic and functions, as well as four drafted additional features wherein each
+  feature:
+
+  - Does not break when being presented/demoed
+
+  - Is demonstrated using either REPL-style inputs or prepared source code file
+    inputs
+
+  - Is demonstrated alongside a brief review of the new code relevant to the
+    feature
+
+  - Is presented alongside extemporaneous discussion stemming from the
+    highlights of the `project-reflection.md` file, which should contain ~200
+    words per drafted feature addressing the following:
+
+    - What was the generalized strategy for implementing the feature?
+
+    - Was implementing this feature easier/harder than anticipated? How so?
+
+    - What do you think Nystrom was trying to teach us by tasking us with this
+      challenge?
+
+- **Performance Review:** for up to five possible points, engage with the
+  instructor in a one-on-one conversation during your scheduled session
+  discussing your culminating mapmaking task and the lox interpreter write-up
